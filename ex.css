@@ -1,0 +1,49 @@
+h3{
+    text-align: center;
+    margin-bottom: 2px;
+    font-family: sans-serif;
+}
+div.Contianer{
+    width:400px;
+    height:670px;
+    margin:auto;
+    border:1px solid black;
+    background-color:#f8f9fa;
+   
+    
+}
+img{
+    width:200px;
+    height:45px;
+   position: relative;
+   left: 100px;
+   top:10px;
+ 
+}
+div.one{
+    font-family:sans-serif;
+    text-align:center;
+    font-size:18px;
+}
+
+div.tow{
+    width:380px;
+    margin:auto;
+    font-family: sans-serif;
+    text-align: center;
+    background-color:gainsboro;
+}
+
+th,td{
+    text-align: left;
+    font-family: sans-serif;
+    padding:15px;
+}
+
+a{
+    text-decoration: none;
+    color:#0645ad;
+}
+a:hover{
+    text-decoration: underline;
+}
